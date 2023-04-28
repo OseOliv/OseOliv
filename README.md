@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Oseas Oliveira
-- 👀 I’m interested in Visual Beauty
 - 🌱 I’m currently learning JavaScript, React, TypeScript
 - 📫 How to reach me: ozzyoliv@gmail.com
 
