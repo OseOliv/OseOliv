@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Oseas Oliveira
 - 📫 How to reach me: ozzyoliv@gmail.com
+- [Portfolio](www.oseasoliveira.com)
 
 <!---
 OseOliv/OseOliv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
