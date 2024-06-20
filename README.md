@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, Javascript, TypeScript**
 
-- 👨‍💻 All of my projects are available at [www.oseasoliveira.com](www.oseasoliveira.com)
+- 👨‍💻 All of my projects are available at [www.oseasoliveira.com](https://www.oseasoliveira.com/)
 
 - 📫 How to reach me **ozzyoliv@gmail.com**
 
