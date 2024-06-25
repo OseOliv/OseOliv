@@ -13,7 +13,7 @@
 <br/>  
 
 
-## Languages and toolsÇ
+## Languages and tools:
 <table><tr><td valign="top" width="33%">
 
 
