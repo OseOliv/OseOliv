@@ -1,7 +1,7 @@
 ### <div align="center">Hi 👋, I'm Oseas Oliveira, student and developer from Brazil.</div>  
   
 
-- 🌱 I’m currently learning Python and frameworks(Django...) 
+- 🌱 I’m currently learning Python
   
 
 - 👨‍💻 All of my projects are available at https://www.oseasoliveira.com/  
