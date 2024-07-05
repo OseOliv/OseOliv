@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Python<br><br>👨‍💻 All of my projects are available at https://www.oseasoliveira.com/<br><br>📫 How to reach me ozzyoliv@gmail.com
+🌱 I’m currently learning Python and Ruby <br><br>👨‍💻 All of my projects are available at https://www.oseasoliveira.com/<br><br>📫 How to reach me ozzyoliv@gmail.com
 
 
 ## 🌐 Socials:
