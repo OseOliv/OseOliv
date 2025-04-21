@@ -1,5 +1,5 @@
 # About Me:
-👋 Hi, my name is Oseas Oliveira <br><br>  <br><br>👨‍💻 All of my projects are available at https://www.oseasoliveira.com/<br><br>📫 How to reach me ozzyoliv@gmail.com
+👋 Hi, my name is Oseas Oliveira <br><br> 👨‍💻 All of my projects are available at https://www.oseasoliveira.com/<br><br>📫 How to reach me ozzyoliv@gmail.com
 
 
 ## 🌐 Socials:
